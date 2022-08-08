@@ -8,5 +8,8 @@ trata de programação. Espero que sirva de auxílio para quem
 quiser desenvolver no futuro e que também eu consiga extrair
 o máximo de conteúdo desse projeto.
 
+(Acredito que vocês já sabem mas aqui vai: Os exercícios 
+estão no caminho src/com)
+
 
 Nunca percam a sede de aprender coisas novas!
